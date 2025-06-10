@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!email || !password) {
       alert('Veuillez remplir tous les champs.');
     } else {
-      window.location.href = 'index.html';
+      window.location.href = 'home.html';
     }
   });
 
