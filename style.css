@@ -1,0 +1,2465 @@
+.STUDIM {
+  background-color: #f9fafc;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.STUDIM .overlap-wrapper {
+  background-color: #f9fafc;
+  overflow: hidden;
+  width: 1506px;
+  height: 6947px;
+}
+
+.STUDIM .overlap {
+  position: relative;
+  width: 2996px;
+  height: 7899px;
+  top: -797px;
+}
+
+.STUDIM .all-through {
+  position: absolute;
+  width: 1384px;
+  height: 619px;
+  top: 2253px;
+  left: 120px;
+}
+
+.STUDIM .ellipse {
+  position: absolute;
+  width: 36px;
+  height: 40px;
+  top: 151px;
+  left: 16px;
+  background-color: #ffba00;
+  border-radius: 18.21px / 19.79px;
+}
+.ellipse:hover{
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.STUDIM .overlap-group {
+  position: absolute;
+  width: 367px;
+  height: 393px;
+  top: 226px;
+  left: 1017px;
+}
+
+.STUDIM .div {
+  position: absolute;
+  width: 25px;
+  height: 27px;
+  top: 284px;
+  left: 338px;
+  background-color: #7d4bc0;
+  border-radius: 12.6px / 13.7px;
+}
+
+.STUDIM .element {
+  position: absolute;
+  width: 367px;
+  height: 393px;
+  top: 0;
+  left: 0;
+}
+
+.STUDIM .overlap-2 {
+  position: relative;
+  width: 363px;
+  height: 393px;
+}
+
+.STUDIM .rectangle {
+  position: absolute;
+  width: 290px;
+  height: 393px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+
+.STUDIM .rectangle-2 {
+  position: absolute;
+  width: 71px;
+  height: 77px;
+  top: 35px;
+  left: 37px;
+  background-color: #ed4883;
+  border-radius: 15px;
+}
+
+.STUDIM .sub-headline-sec {
+  position: absolute;
+  width: 363px;
+  top: 126px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #2f2e51;
+  font-size: 22px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .h-sub-headline-sec {
+  position: absolute;
+  width: 238px;
+  top: 162px;
+  left: 37px;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .img {
+  position: absolute;
+  width: 37px;
+  height: 41px;
+  top: 53px;
+  left: 54px;
+}
+
+.STUDIM .ellipse-2 {
+  position: absolute;
+  width: 25px;
+  height: 27px;
+  top: 144px;
+  left: 1134px;
+  background-color: #ed4883;
+  border-radius: 12.6px / 13.7px;
+}
+
+.STUDIM .assess-and-report {
+  position: absolute;
+  width: 633px;
+  top: 88px;
+  left: 335px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .ks-all-through {
+  position: absolute;
+  width: 781px;
+  top: 0;
+  left: 249px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #040428;
+  font-size: 42px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.STUDIM .overlap-group-wrapper {
+  position: absolute;
+  width: 294px;
+  height: 393px;
+  top: 226px;
+  left: 678px;
+}
+
+.STUDIM .overlap-group-2 {
+  position: relative;
+  width: 290px;
+  height: 393px;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+
+.STUDIM .element-wrapper {
+  position: absolute;
+  width: 71px;
+  height: 77px;
+  top: 35px;
+  left: 37px;
+  background-color: #ec732f;
+  border-radius: 15px;
+}
+
+.STUDIM .element-2 {
+  position: absolute;
+  width: 37px;
+  height: 41px;
+  top: 18px;
+  left: 17px;
+}
+
+.STUDIM .overlap-3 {
+  position: absolute;
+  width: 251px;
+  height: 225px;
+  top: 128px;
+  left: 13px;
+}
+
+.STUDIM .text-wrapper {
+  position: absolute;
+  width: 227px;
+  top: 0;
+  left: 24px;
+  font-weight: 600;
+  color: #2f2e51;
+  font-size: 22px;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .p {
+  position: absolute;
+  width: 251px;
+  top: 35px;
+  left: 0;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .div-wrapper {
+  position: absolute;
+  width: 305px;
+  height: 393px;
+  top: 226px;
+  left: 339px;
+}
+
+.STUDIM .overlap-4 {
+  position: relative;
+  width: 301px;
+  height: 393px;
+}
+
+.STUDIM .rectangle-3 {
+  position: absolute;
+  width: 71px;
+  height: 77px;
+  top: 35px;
+  left: 37px;
+  background-color: #417cd4;
+  border-radius: 15px;
+}
+
+.STUDIM .sub-headline-sec-2 {
+  position: absolute;
+  width: 227px;
+  top: 128px;
+  left: 37px;
+  font-weight: 600;
+  color: #2f2e51;
+  font-size: 22px;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .sub-headline-sec-3 {
+  position: absolute;
+  width: 280px;
+  top: 170px;
+  left: 21px;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .element-3 {
+  position: absolute;
+  width: 294px;
+  height: 393px;
+  top: 226px;
+  left: 0;
+}
+
+.STUDIM .overlap-5 {
+  position: relative;
+  width: 290px;
+  height: 393px;
+  background-color: #ffffff;
+  border-radius: 24px;
+  box-shadow: 13px 19px 47px #00000008;
+}
+
+.STUDIM .img-wrapper {
+  position: absolute;
+  width: 71px;
+  height: 77px;
+  top: 35px;
+  left: 35px;
+  background-color: #9747ff;
+  border-radius: 15px;
+}
+
+.STUDIM .sub-headline-sec-4 {
+  position: absolute;
+  width: 269px;
+  top: 173px;
+  left: 11px;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .sub-headline-sec-5 {
+  position: absolute;
+  width: 227px;
+  top: 130px;
+  left: 35px;
+  font-weight: 600;
+  color: #2f2e51;
+  font-size: 22px;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .all-in-one {
+  position: absolute;
+  width: 1465px;
+  height: 970px;
+  top: 2950px;
+  left: 47px;
+}
+
+.STUDIM .ellipse-3 {
+  position: absolute;
+  width: 24px;
+  height: 27px;
+  top: 0;
+  left: 6px;
+  background-color: #7d4bc0;
+  border-radius: 11.77px / 13.5px;
+}
+
+.STUDIM .overlap-6 {
+  position: absolute;
+  width: 1405px;
+  height: 341px;
+  top: 629px;
+  left: 0;
+}
+
+.STUDIM .ellipse-4 {
+  position: absolute;
+  width: 24px;
+  height: 27px;
+  top: 0;
+  left: 14px;
+  background-color: #00c3a5;
+  border-radius: 11.77px / 13.5px;
+}
+
+.STUDIM .ellipse-5 {
+  position: absolute;
+  width: 24px;
+  height: 27px;
+  top: 20px;
+  left: 772px;
+  background-color: #00c3a5;
+  border-radius: 11.77px / 13.5px;
+}
+
+.STUDIM .rectangle-4 {
+  position: absolute;
+  width: 1405px;
+  height: 321px;
+  top: 20px;
+  left: 0;
+}
+
+.STUDIM .text-wrapper-2 {
+  position: absolute;
+  width: 209px;
+  top: 32px;
+  left: 162px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+  white-space: nowrap;
+}
+
+.STUDIM .text-wrapper-3 {
+  position: absolute;
+  width: 209px;
+  top: 45px;
+  left: 867px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+  white-space: nowrap;
+}
+
+.STUDIM .save-time-preparing {
+  position: absolute;
+  width: 430px;
+  top: 91px;
+  left: 182px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .group {
+  position: absolute;
+  width: 85px;
+  height: 101px;
+  top: 38px;
+  left: 62px;
+  background-color: #6b3ad1;
+  border-radius: 16px;
+  background-image: url(https://c.animaapp.com/4gp4krtc/img/mask-group@2x.png);
+  background-size: 100% 100%;
+}
+
+.STUDIM .group-2 {
+  position: absolute;
+  width: 85px;
+  height: 88px;
+  top: 32px;
+  left: 756px;
+  background-color: #6b3ad1;
+  border-radius: 16px;
+  background-image: url(https://c.animaapp.com/4gp4krtc/img/mask-group-1@2x.png);
+  background-size: 100% 100%;
+}
+
+.STUDIM .image {
+  position: absolute;
+  width: 63px;
+  height: 72px;
+  top: 53px;
+  left: 73px;
+  object-fit: cover;
+}
+
+.STUDIM .image-2 {
+  position: absolute;
+  width: 57px;
+  height: 70px;
+  top: 43px;
+  left: 766px;
+  object-fit: cover;
+}
+
+.STUDIM .mirodo-can-help-you {
+  position: absolute;
+  width: 484px;
+  top: 289px;
+  left: 430px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.STUDIM .identify-and-address {
+  position: absolute;
+  width: 612px;
+  top: 340px;
+  left: 740px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  letter-spacing: 0.20px;
+  line-height: 23px;
+  white-space: nowrap;
+}
+
+.STUDIM .identify-and-address-2 {
+  width: 649px;
+  top: 399px;
+  position: absolute;
+  left: 740px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  letter-spacing: 0.20px;
+  line-height: 23px;
+  white-space: nowrap;
+}
+
+.STUDIM .identify-and-address-3 {
+  width: 709px;
+  top: 456px;
+  position: absolute;
+  left: 740px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  letter-spacing: 0.20px;
+  line-height: 23px;
+  white-space: nowrap;
+}
+
+.STUDIM .all-in-one-2 {
+  position: absolute;
+  width: 878px;
+  top: 107px;
+  left: 518px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #040428;
+  font-size: 42px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+}
+
+.STUDIM .material-symbols-wrapper {
+  position: absolute;
+  width: 19px;
+  height: 22px;
+  top: 341px;
+  left: 703px;
+  background-color: #7d4bc0;
+  border-radius: 9.59px / 11px;
+}
+
+.STUDIM .material-symbols {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 3px;
+  left: 3px;
+}
+
+.STUDIM .overlap-7 {
+  position: absolute;
+  width: 19px;
+  height: 22px;
+  top: 456px;
+  left: 703px;
+  background-color: #7d4bc0;
+  border-radius: 9.59px / 11px;
+}
+
+.STUDIM .group-3 {
+  position: absolute;
+  width: 19px;
+  height: 22px;
+  top: 399px;
+  left: 703px;
+  background-color: #7d4bc0;
+  border-radius: 9.59px / 11px;
+}
+
+.STUDIM .ellipse-6 {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 2919px;
+  left: 1482px;
+  background-color: #ed4883;
+  border-radius: 13.5px;
+}
+
+.STUDIM .why-choose-us {
+  position: absolute;
+  width: 1480px;
+  height: 1771px;
+  top: 2950px;
+  left: 26px;
+}
+
+.STUDIM .ellipse-7 {
+  position: absolute;
+  width: 36px;
+  height: 38px;
+  top: 1038px;
+  left: 1444px;
+  background-color: #ffba00;
+  border-radius: 18.01px / 19.23px;
+}
+
+.STUDIM .ellipse-8 {
+  position: absolute;
+  width: 25px;
+  height: 27px;
+  top: 1744px;
+  left: 74px;
+  background-color: #7d4bc0;
+  border-radius: 12.47px / 13.31px;
+}
+
+.STUDIM .ellipse-9 {
+  position: absolute;
+  width: 25px;
+  height: 27px;
+  top: 1182px;
+  left: 0;
+  background-color: #ed4883;
+  border-radius: 12.47px / 13.31px;
+}
+
+.STUDIM .overlap-8 {
+  position: absolute;
+  width: 491px;
+  height: 588px;
+  top: 0;
+  left: 39px;
+}
+
+.STUDIM .rectangle-5 {
+  position: absolute;
+  width: 491px;
+  height: 517px;
+  top: 71px;
+  left: 0;
+  background-color: #ffd05c;
+  border-radius: 285.5px 285.5px 30px 30px;
+}
+
+.STUDIM .element-man {
+  position: absolute;
+  width: 467px;
+  height: 536px;
+  top: 0;
+  left: 4px;
+}
+
+.STUDIM .ellipse-10 {
+  position: absolute;
+  width: 25px;
+  height: 27px;
+  top: 1474px;
+  left: 1430px;
+  background-color: #7d4bc0;
+  border-radius: 12.47px / 13.31px;
+}
+
+.STUDIM .trusted-by-several {
+  position: absolute;
+  width: 1501px;
+  height: 277px;
+  top: 1943px;
+  left: 1px;
+}
+
+.STUDIM .sub-headline-sec-6 {
+  position: absolute;
+  width: 592px;
+  top: 0;
+  left: 414px;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .image-3 {
+  position: absolute;
+  width: 670px;
+  height: 166px;
+  top: 111px;
+  left: 0;
+  object-fit: cover;
+}
+
+.STUDIM .image-4 {
+  position: absolute;
+  width: 671px;
+  height: 126px;
+  top: 127px;
+  left: 828px;
+  object-fit: cover;
+}
+
+.STUDIM .header {
+  position: absolute;
+  width: 1510px;
+  height: 1110px;
+  top: 797px;
+  left: 0;
+  background-color: transparent;
+}
+
+.STUDIM .menu {
+  position: absolute;
+  width: 725px;
+  height: 43px;
+  top: 51px;
+  left: 332px;
+}
+
+.STUDIM .school {
+  width: 76px;
+  top: 0;
+  left: 0;
+  font-weight: 400;
+  color: #ffba00;
+  font-size: 14px;
+  line-height: 30px;
+  position: absolute;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+}
+
+.STUDIM .parents {
+  position: absolute;
+  width: 86px;
+  top: 0;
+  left: 166px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #473a59;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .overlap-group-3 {
+  position: absolute;
+  width: 372px;
+  height: 43px;
+  top: 0;
+  left: 345px;
+}
+
+.STUDIM .year-intervention {
+  position: absolute;
+  width: 211px;
+  top: 0;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #473a59;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .blog {
+  top: 0;
+  left: 204px;
+  position: absolute;
+  width: 168px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #473a59;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .overlap-9 {
+  position: absolute;
+  width: 1506px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/4gp4krtc/img/rectangle-6515.svg);
+  background-size: 100% 100%;
+}
+
+.STUDIM .rectangle-6 {
+  position: absolute;
+  width: 116px;
+  height: 26px;
+  top: 3px;
+  left: 53px;
+  background-color: #aab6f9;
+  border-radius: 18px;
+}
+
+.STUDIM .pupil-login-parent {
+  position: absolute;
+  width: 583px;
+  top: 0;
+  left: 67px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.STUDIM .span {
+  color: #ffffff;
+  letter-spacing: 0.03px;
+}
+
+.STUDIM .text-wrapper-4 {
+  color: #ffba00;
+  letter-spacing: 0.03px;
+}
+
+.STUDIM .boost-maths-and {
+  position: absolute;
+  width: 1333px;
+  top: 265px;
+  left: 102px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #040428;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 80px;
+}
+
+.STUDIM .ellipse-11 {
+  position: absolute;
+  width: 26px;
+  height: 28px;
+  top: 649px;
+  left: 66px;
+  background-color: #ffba00;
+  border-radius: 12.76px / 13.79px;
+}
+
+.STUDIM .ellipse-12 {
+  position: absolute;
+  width: 26px;
+  height: 28px;
+  top: 330px;
+  left: 36px;
+  background-color: #417cd4;
+  border-radius: 12.76px / 13.79px;
+}
+
+.STUDIM .ellipse-13 {
+  position: absolute;
+  width: 37px;
+  height: 40px;
+  top: 732px;
+  left: 1247px;
+  background-color: #dd3f3f;
+  border-radius: 18.32px / 19.8px;
+}
+
+.STUDIM .ellipse-14 {
+  position: absolute;
+  width: 18px;
+  height: 19px;
+  top: 547px;
+  left: 112px;
+  background-color: #00c3a5;
+  border-radius: 8.83px / 9.55px;
+}
+
+.STUDIM .ellipse-15 {
+  position: absolute;
+  width: 18px;
+  height: 19px;
+  top: 511px;
+  left: 27px;
+  background-color: #ed4883;
+  border-radius: 8.83px / 9.55px;
+}
+
+.STUDIM .image-5 {
+  position: absolute;
+  width: 178px;
+  height: 322px;
+  top: 676px;
+  left: 1067px;
+  object-fit: cover;
+}
+
+.STUDIM .image-6 {
+  position: absolute;
+  width: 188px;
+  height: 338px;
+  top: 772px;
+  left: 523px;
+  object-fit: cover;
+}
+
+.STUDIM .image-7 {
+  position: absolute;
+  width: 188px;
+  height: 338px;
+  top: 772px;
+  left: 829px;
+  object-fit: cover;
+}
+
+.STUDIM .image-8 {
+  position: absolute;
+  width: 188px;
+  height: 338px;
+  top: 663px;
+  left: 269px;
+  object-fit: cover;
+}
+
+.STUDIM .blog-2 {
+  top: 846px;
+  left: 1088px;
+  position: absolute;
+  width: 168px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #473a59;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .ellipse-16 {
+  position: absolute;
+  width: 28px;
+  height: 27px;
+  top: 1330px;
+  left: 1343px;
+  background-color: #ffba00;
+  border-radius: 13.81px / 13.72px;
+}
+
+.STUDIM .ellipse-17 {
+  position: absolute;
+  width: 23px;
+  height: 29px;
+  top: 1431px;
+  left: 1265px;
+  background-color: #00c3a5;
+  border-radius: 11.56px / 14.34px;
+}
+
+.STUDIM .register-for-your {
+  position: absolute;
+  width: 1479px;
+  height: 584px;
+  top: 3931px;
+  left: 88px;
+}
+
+.STUDIM .ellipse-18 {
+  position: absolute;
+  width: 24px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  background-color: #ffba00;
+  border-radius: 11.81px / 13.95px;
+}
+
+.STUDIM .ellipse-19 {
+  position: absolute;
+  width: 24px;
+  height: 28px;
+  top: 441px;
+  left: 1437px;
+  background-color: #7d4bc0;
+  border-radius: 11.81px / 13.95px;
+}
+
+.STUDIM .overlap-10 {
+  position: absolute;
+  width: 1376px;
+  height: 544px;
+  top: 40px;
+  left: 0;
+}
+
+.STUDIM .rectangle-7 {
+  position: absolute;
+  width: 1155px;
+  height: 512px;
+  top: 1px;
+  left: 0;
+  background-color: #fe7d55;
+  border-radius: 30px;
+}
+
+.STUDIM .text-wrapper-5 {
+  position: absolute;
+  width: 510px;
+  top: 30px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 42px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.STUDIM .text-wrapper-6 {
+  position: absolute;
+  width: 464px;
+  top: 161px;
+  left: 185px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.STUDIM .checkmark {
+  position: absolute;
+  width: 22px;
+  height: 26px;
+  top: 161px;
+  left: 154px;
+  background-color: #ffffff;
+  border-radius: 10.93px / 12.92px;
+}
+
+.STUDIM .vector {
+  position: absolute;
+  width: 9px;
+  height: 7px;
+  top: 10px;
+  left: 6px;
+}
+
+.STUDIM .text-wrapper-7 {
+  position: absolute;
+  width: 464px;
+  top: 221px;
+  left: 185px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.STUDIM .vector-wrapper {
+  position: absolute;
+  width: 22px;
+  height: 26px;
+  top: 221px;
+  left: 154px;
+  background-color: #ffffff;
+  border-radius: 10.93px / 12.92px;
+}
+
+.STUDIM .text-wrapper-8 {
+  position: absolute;
+  width: 464px;
+  top: 282px;
+  left: 185px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.STUDIM .checkmark-2 {
+  position: absolute;
+  width: 22px;
+  height: 26px;
+  top: 282px;
+  left: 154px;
+  background-color: #ffffff;
+  border-radius: 10.93px / 12.92px;
+}
+
+.STUDIM .text-wrapper-9 {
+  position: absolute;
+  width: 464px;
+  top: 342px;
+  left: 185px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.STUDIM .checkmark-3 {
+  position: absolute;
+  width: 22px;
+  height: 26px;
+  top: 342px;
+  left: 154px;
+  background-color: #ffffff;
+  border-radius: 10.93px / 12.92px;
+}
+
+.STUDIM .text-wrapper-10 {
+  position: absolute;
+  width: 464px;
+  top: 403px;
+  left: 185px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.STUDIM .checkmark-4 {
+  position: absolute;
+  width: 22px;
+  height: 26px;
+  top: 403px;
+  left: 154px;
+  background-color: #ffffff;
+  border-radius: 10.93px / 12.92px;
+}
+
+.STUDIM .rectangle-8 {
+  position: absolute;
+  width: 592px;
+  height: 512px;
+  top: 0;
+  left: 725px;
+  background-color: #220f48;
+  border-radius: 0px 30px 30px 0px;
+}
+
+.STUDIM .button {
+  width: 474px;
+  height: 62px;
+  align-items: flex-start;
+  padding: 18px 60px;
+  top: 377px;
+  left: 784px;
+  background-color: #ffba00;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  overflow: hidden;
+}
+.button:hover{
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.STUDIM .book-a-free {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 700;
+  color: #f3f4f8;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.STUDIM .rectangle-9 {
+  top: 81px;
+  position: absolute;
+  width: 474px;
+  height: 62px;
+  left: 784px;
+  background-color: #f3f4f8;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #04152e36;
+}
+
+.STUDIM .school-name {
+  width: 86px;
+  top: 82px;
+  left: 825px;
+  font-weight: 300;
+  color: #04152e;
+  font-size: 16px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+}
+
+.STUDIM .rectangle-10 {
+  top: 179px;
+  position: absolute;
+  width: 474px;
+  height: 62px;
+  left: 784px;
+  background-color: #f3f4f8;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #04152e36;
+}
+
+.STUDIM .full-name {
+  position: absolute;
+  width: 65px;
+  top: 185px;
+  left: 814px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #04152e;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.STUDIM .rectangle-11 {
+  top: 277px;
+  position: absolute;
+  width: 474px;
+  height: 62px;
+  left: 784px;
+  background-color: #f3f4f8;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #04152e36;
+}
+
+.STUDIM .school-email-address {
+  position: absolute;
+  width: 139px;
+  top: 284px;
+  left: 809px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #04152e;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.STUDIM .image-wrapper {
+  width: 80px;
+  height: 95px;
+  top: 236px;
+  left: 24px;
+  border-radius: 40.23px / 47.55px;
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 35px #00000014;
+}
+
+.STUDIM .image-9 {
+  position: absolute;
+  width: 46px;
+  height: 55px;
+  top: 21px;
+  left: 17px;
+  object-fit: cover;
+}
+
+.STUDIM .image-10 {
+  width: 80px;
+  height: 95px;
+  top: 449px;
+  left: 677px;
+  border-radius: 40.23px / 47.55px;
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 45px #0000001f;
+}
+
+.STUDIM .image-11 {
+  position: absolute;
+  width: 63px;
+  height: 74px;
+  top: 10px;
+  left: 9px;
+  object-fit: cover;
+}
+
+.STUDIM .image-12 {
+  width: 118px;
+  height: 139px;
+  top: 216px;
+  left: 1258px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.STUDIM .frame {
+  position: absolute;
+  width: 1600px;
+  height: 7899px;
+  top: 0;
+  left: 1396px;
+}
+
+.STUDIM .overlap-11 {
+  position: absolute;
+  width: 1404px;
+  height: 1351px;
+  top: 4552px;
+  left: -1342px;
+}
+
+.STUDIM .how-mirodo-can-help {
+  position: absolute;
+  width: 1092px;
+  height: 897px;
+  top: 0;
+  left: 55px;
+}
+
+.STUDIM .overlap-group-4 {
+  position: absolute;
+  width: 55px;
+  height: 426px;
+  top: 210px;
+  left: 575px;
+}
+
+.STUDIM .line {
+  position: absolute;
+  width: 1px;
+  height: 374px;
+  top: 27px;
+  left: 25px;
+  object-fit: cover;
+}
+
+.STUDIM .ellipse-20 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #9747ff;
+  border-radius: 25px;
+}
+
+.STUDIM .ellipse-21 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 188px;
+  left: 0;
+  background-color: #ec732f;
+  border-radius: 25px;
+}
+
+.STUDIM .ellipse-22 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 376px;
+  left: 0;
+  background-color: #ed4883;
+  border-radius: 25px;
+}
+
+.STUDIM .image-13 {
+  position: absolute;
+  width: 40px;
+  height: 26px;
+  top: 12px;
+  left: 5px;
+}
+
+.STUDIM .image-14 {
+  position: absolute;
+  width: 48px;
+  height: 38px;
+  top: 195px;
+  left: 7px;
+}
+
+.STUDIM .image-15 {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 387px;
+  left: 14px;
+  object-fit: cover;
+}
+
+.STUDIM .ellipse-23 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 646px;
+  left: 338px;
+}
+
+.STUDIM .ellipse-24 {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 45px;
+  left: 1055px;
+  background-color: #417cd4;
+  border-radius: 10.5px;
+}
+
+.STUDIM .ellipse-25 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 152px;
+  left: 256px;
+  background-color: #ed4883;
+  border-radius: 9.5px;
+}
+
+.STUDIM .spend-less-time {
+  position: absolute;
+  width: 660px;
+  top: 79px;
+  left: 295px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.20px;
+  line-height: 23px;
+}
+
+.STUDIM .how-mirodo-can-help-2 {
+  position: absolute;
+  width: 651px;
+  top: 0;
+  left: 364px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #040428;
+  font-size: 42px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+}
+
+.STUDIM .overlap-12 {
+  position: absolute;
+  width: 424px;
+  height: 114px;
+  top: 202px;
+  left: 652px;
+}
+
+.STUDIM .text-wrapper-11 {
+  position: absolute;
+  width: 240px;
+  top: 0;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #0c0712;
+  font-size: 24px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+}
+
+.STUDIM .save-up-to-hours {
+  position: absolute;
+  width: 424px;
+  top: 54px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #888888;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .overlap-13 {
+  position: absolute;
+  width: 381px;
+  height: 114px;
+  top: 387px;
+  left: 163px;
+}
+
+.STUDIM .marking {
+  position: absolute;
+  width: 352px;
+  top: 0;
+  left: 29px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #0c0712;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+}
+
+.STUDIM .reduce-your-workload {
+  position: absolute;
+  width: 381px;
+  top: 54px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #888888;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .overlap-14 {
+  position: absolute;
+  width: 385px;
+  height: 144px;
+  top: 578px;
+  left: 652px;
+}
+
+.STUDIM .convert-your-pupil-s {
+  position: absolute;
+  width: 385px;
+  top: 54px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #888888;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .image-16 {
+  position: absolute;
+  width: 256px;
+  height: 261px;
+  top: 636px;
+  left: 0;
+  object-fit: cover;
+}
+
+.STUDIM .build-confidence-and {
+  position: absolute;
+  width: 1404px;
+  height: 551px;
+  top: 800px;
+  left: 0;
+}
+
+.STUDIM .overlap-15 {
+  position: relative;
+  width: 1400px;
+  height: 551px;
+}
+
+.STUDIM .overlap-16 {
+  position: absolute;
+  width: 1400px;
+  height: 542px;
+  top: 9px;
+  left: 0;
+}
+
+.STUDIM .rectangle-12 {
+  position: absolute;
+  width: 1400px;
+  height: 449px;
+  top: 93px;
+  left: 0;
+  background-color: #220f48;
+  border-radius: 30px;
+}
+
+.STUDIM .with-thousands-of {
+  position: absolute;
+  width: 539px;
+  top: 311px;
+  left: 65px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 23px;
+}
+
+.STUDIM .build-confidence-and-2 {
+  position: absolute;
+  width: 710px;
+  top: 154px;
+  left: 70px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 42px;
+  letter-spacing: 0.20px;
+  line-height: 58px;
+}
+
+.STUDIM .mask-group {
+  position: absolute;
+  width: 748px;
+  height: 520px;
+  top: 0;
+  left: 622px;
+}
+
+.STUDIM .ellipse-26 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 0;
+  left: 524px;
+  background-color: #ed4883;
+  border-radius: 9.5px;
+}
+
+.STUDIM .go-live {
+  position: absolute;
+  width: 1516px;
+  height: 387px;
+  top: 5987px;
+  left: -1420px;
+}
+
+.STUDIM .overlap-17 {
+  position: absolute;
+  width: 697px;
+  height: 338px;
+  top: 49px;
+  left: 809px;
+}
+
+.STUDIM .ellipse-27 {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 0;
+  left: 638px;
+  background-color: #417cd4;
+  border-radius: 10.5px;
+}
+
+.STUDIM .overlap-18 {
+  position: absolute;
+  width: 697px;
+  height: 327px;
+  top: 11px;
+  left: 0;
+}
+
+.STUDIM .rectangle-13 {
+  position: absolute;
+  width: 678px;
+  height: 301px;
+  top: 26px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 31px;
+  box-shadow: 0px 4px 46px #0000001c;
+}
+
+.STUDIM .access-mirodo-s-bank {
+  position: absolute;
+  width: 354px;
+  top: 109px;
+  left: 331px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .covering-key-topics {
+  position: absolute;
+  width: 604px;
+  top: 238px;
+  left: 37px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .text-wrapper-12 {
+  position: absolute;
+  width: 358px;
+  top: 64px;
+  left: 339px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #0c0712;
+  font-size: 24px;
+  letter-spacing: 0.20px;
+  line-height: 38.5px;
+}
+
+.STUDIM .image-17 {
+  position: absolute;
+  width: 267px;
+  height: 189px;
+  top: 0;
+  left: 51px;
+  object-fit: cover;
+}
+
+.STUDIM .mask-group-2 {
+  position: absolute;
+  width: 230px;
+  height: 150px;
+  top: 2px;
+  left: 61px;
+}
+
+.STUDIM .ellipse-28 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 202px;
+  left: 0;
+  background-color: #ed4883;
+  border-radius: 9.5px;
+}
+
+.STUDIM .overlap-19 {
+  position: absolute;
+  width: 678px;
+  height: 387px;
+  top: 0;
+  left: 87px;
+}
+
+.STUDIM .rectangle-14 {
+  position: absolute;
+  width: 678px;
+  height: 301px;
+  top: 86px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 31px;
+  box-shadow: 0px 4px 46px #0000001c;
+}
+
+.STUDIM .golive-is-our-latest {
+  position: absolute;
+  width: 349px;
+  top: 246px;
+  left: 311px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .access {
+  position: absolute;
+  width: 618px;
+  top: 294px;
+  left: 42px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .image-18 {
+  position: absolute;
+  width: 156px;
+  height: 130px;
+  top: 102px;
+  left: 311px;
+  object-fit: cover;
+}
+
+.STUDIM .image-19 {
+  position: absolute;
+  width: 256px;
+  height: 289px;
+  top: 0;
+  left: 25px;
+  object-fit: cover;
+}
+
+.STUDIM .why-us {
+  position: absolute;
+  width: 1507px;
+  height: 563px;
+  top: 6459px;
+  left: -1401px;
+}
+
+.STUDIM .ellipse-29 {
+  position: absolute;
+  width: 19px;
+  height: 21px;
+  top: 190px;
+  left: 0;
+  background-color: #417cd4;
+  border-radius: 9.7px / 10.33px;
+}
+
+.STUDIM .ellipse-30 {
+  position: absolute;
+  width: 25px;
+  height: 27px;
+  top: 536px;
+  left: 603px;
+  background-color: #00c3a5;
+  border-radius: 12.47px / 13.28px;
+}
+
+.STUDIM .why-us-2 {
+  position: absolute;
+  width: 795px;
+  top: 0;
+  left: 710px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #040428;
+  font-size: 42px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+}
+
+.STUDIM .checkmark-group {
+  position: absolute;
+  width: 794px;
+  height: 344px;
+  top: 131px;
+  left: 713px;
+}
+
+.STUDIM .checkmark-5 {
+  position: absolute;
+  width: 21px;
+  height: 23px;
+  top: 18px;
+  left: 1px;
+  background-color: #7d4bc0;
+  border-radius: 10.62px / 11.32px;
+}
+
+.STUDIM .material-symbols-2 {
+  position: absolute;
+  width: 18px;
+  height: 20px;
+  top: 2px;
+  left: 2px;
+}
+
+.STUDIM .checkmark-6 {
+  position: absolute;
+  width: 21px;
+  height: 23px;
+  top: 67px;
+  left: 1px;
+  background-color: #7d4bc0;
+  border-radius: 10.62px / 11.32px;
+}
+
+.STUDIM .checkmark-7 {
+  position: absolute;
+  width: 21px;
+  height: 23px;
+  top: 116px;
+  left: 1px;
+  background-color: #7d4bc0;
+  border-radius: 10.62px / 11.32px;
+}
+
+.STUDIM .checkmark-8 {
+  position: absolute;
+  width: 21px;
+  height: 23px;
+  top: 165px;
+  left: 1px;
+  background-color: #7d4bc0;
+  border-radius: 10.62px / 11.32px;
+}
+
+.STUDIM .checkmark-9 {
+  position: absolute;
+  width: 21px;
+  height: 23px;
+  top: 214px;
+  left: 1px;
+  background-color: #7d4bc0;
+  border-radius: 10.62px / 11.32px;
+}
+
+.STUDIM .checkmark-10 {
+  position: absolute;
+  width: 21px;
+  height: 23px;
+  top: 264px;
+  left: 0;
+  background-color: #7d4bc0;
+  border-radius: 10.62px / 11.32px;
+}
+
+.STUDIM .checkmark-11 {
+  position: absolute;
+  width: 21px;
+  height: 23px;
+  top: 310px;
+  left: 0;
+  background-color: #7d4bc0;
+  border-radius: 10.62px / 11.32px;
+}
+
+.STUDIM .full-curriculum {
+  position: absolute;
+  width: 754px;
+  top: 0;
+  left: 38px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #504d4e;
+  font-size: 16px;
+  letter-spacing: 0.20px;
+  line-height: 50px;
+}
+
+.STUDIM .image-20 {
+  position: absolute;
+  width: 530px;
+  height: 556px;
+  top: 7px;
+  left: 38px;
+  background-image: url(https://c.animaapp.com/4gp4krtc/img/mask-group-4.png);
+  background-size: 100% 100%;
+}
+
+.STUDIM .ellipse-31 {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 6432px;
+  left: 77px;
+  background-color: #ffba00;
+  border-radius: 13.5px;
+}
+
+.STUDIM .overlap-20 {
+  position: absolute;
+  width: 1806px;
+  height: 631px;
+  top: 7113px;
+  left: -1428px;
+}
+
+.STUDIM .footer {
+  position: absolute;
+  width: 1806px;
+  height: 631px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.STUDIM .overlap-21 {
+  position: relative;
+  width: 1790px;
+  height: 631px;
+}
+
+.STUDIM .overlap-22 {
+  position: absolute;
+  width: 1790px;
+  height: 631px;
+  top: 0;
+  left: 0;
+}
+
+.STUDIM .rectangle-15 {
+  position: absolute;
+  width: 1269px;
+  height: 408px;
+  top: 0;
+  left: 119px;
+  background-color: #e54981;
+  border-radius: 30px;
+}
+
+.STUDIM .rectangle-16 {
+  position: absolute;
+  width: 194px;
+  height: 50px;
+  top: 255px;
+  left: 416px;
+}
+
+.STUDIM .iconamoon-arrow-up {
+  position: absolute;
+  width: 22px;
+  height: 24px;
+  top: 268px;
+  left: 561px;
+}
+
+.STUDIM .rectangle-17 {
+  position: absolute;
+  width: 187px;
+  height: 50px;
+  top: 254px;
+  left: 193px;
+  background-color: #ffffff;
+  border-radius: 29px;
+}
+
+.STUDIM .rectangle-18 {
+  position: absolute;
+  width: 725px;
+  height: 407px;
+  top: 0;
+  left: 761px;
+  background-color: #220f48;
+  border-radius: 0px 30px 30px 0px;
+}
+
+.STUDIM .subscribe-to-our {
+  position: absolute;
+  width: 1006px;
+  height: 110px;
+  top: 29px;
+  left: 784px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+}
+
+.STUDIM .join-the-mirodo {
+  position: absolute;
+  width: 556px;
+  top: 18px;
+  left: 775px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 42px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+  white-space: nowrap;
+}
+
+.STUDIM .rectangle-19 {
+  position: absolute;
+  width: 417px;
+  height: 171px;
+  top: 192px;
+  left: 830px;
+  background-color: #ffffff;
+  border-radius: 29px;
+}
+
+.STUDIM .select {
+  width: 87px;
+  top: 202px;
+  left: 870px;
+  position: absolute;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #04152e;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .text-wrapper-13 {
+  width: 58px;
+  top: 267px;
+  left: 436px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #04152e;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .join-the-mirodo-2 {
+  position: absolute;
+  width: 556px;
+  top: 38px;
+  left: 187px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 42px;
+  letter-spacing: 0.20px;
+  line-height: 65.5px;
+  white-space: nowrap;
+}
+
+.STUDIM .subscribe-to-our-2 {
+  position: absolute;
+  width: 486px;
+  top: 121px;
+  left: 180px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.20px;
+  line-height: 28px;
+}
+
+.STUDIM .rectangle-20 {
+  position: absolute;
+  width: 187px;
+  height: 50px;
+  top: 131px;
+  left: 827px;
+}
+
+.STUDIM .subscribe-wrapper {
+  display: flex;
+  width: 129px;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 25px;
+  position: absolute;
+  top: 323px;
+  left: 537px;
+  background-color: #ffba00;
+  border-radius: 25px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.STUDIM .subscribe {
+  margin-top: -1.20px;
+  position: relative;
+  width: fit-content;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.STUDIM .text-wrapper-14 {
+  width: 118px;
+  top: 144px;
+  left: 854px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #04152e;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .text-wrapper-15 {
+  width: 64px;
+  top: 268px;
+  left: 223px;
+  position: absolute;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #04152e;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+}
+
+.STUDIM .ellipse-32 {
+  position: absolute;
+  width: 83px;
+  height: 91px;
+  top: 164px;
+  left: 721px;
+  background-color: #ffffff;
+  border-radius: 41.46px / 45.64px;
+  box-shadow: 0px 4px 45px #0000001f;
+}
+
+.STUDIM .image-21 {
+  position: absolute;
+  width: 58px;
+  height: 63px;
+  top: 178px;
+  left: 732px;
+  object-fit: cover;
+}
+
+.STUDIM .ellipse-33 {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 392px;
+  left: 1435px;
+  background-color: #ffba00;
+  border-radius: 7.21px / 7.94px;
+}
+
+.STUDIM .logos-removebg-wrapper {
+  position: absolute;
+  width: 251px;
+  height: 251px;
+  top: 380px;
+  left: 0;
+}
+
+.STUDIM .logos-removebg {
+  position: absolute;
+  width: 219px;
+  height: 251px;
+  top: 0;
+  left: 32px;
+  object-fit: cover;
+}
+
+.STUDIM .image-22 {
+  width: 83px;
+  height: 91px;
+  top: 365px;
+  left: 701px;
+  border-radius: 41.46px / 45.64px;
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 45px #0000001f;
+}
+
+.STUDIM .image-23 {
+  position: absolute;
+  width: 65px;
+  height: 71px;
+  top: 10px;
+  left: 9px;
+  object-fit: cover;
+}
+
+.STUDIM .image-24 {
+  width: 121px;
+  height: 134px;
+  top: 132px;
+  left: 1385px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.STUDIM .image-25 {
+  width: 83px;
+  height: 91px;
+  top: 277px;
+  left: 60px;
+  border-radius: 41.46px / 45.64px;
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 35px #00000014;
+}
+
+.STUDIM .image-26 {
+  position: absolute;
+  width: 48px;
+  height: 53px;
+  top: 20px;
+  left: 17px;
+  object-fit: cover;
+}
+
+.STUDIM .ellipse-34 {
+  position: absolute;
+  width: 24px;
+  height: 27px;
+  top: 189px;
+  left: 5px;
+  background-color: #ed4883;
+  border-radius: 12.17px / 13.39px;
+}
+
+.STUDIM .frame-2 {
+  display: flex;
+  width: 143px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 25px;
+  position: absolute;
+  top: 347px;
+  left: 1260px;
+  background-color: #ffba00;
+  border-radius: 25px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-2 :hover{
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+}
+
+.STUDIM .subscribe-2 {
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.STUDIM .our-summative {
+  position: absolute;
+  width: 371px;
+  top: 3694px;
+  left: -453px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .sub-headline-sec-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  width: 80px;
+  height: 35px;
+  align-items: center;
+  padding: 10px 25px;
+  top: 847px;
+  left: -40px;
+  background-color: #979797;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.STUDIM .sub-headline-sec-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -8.32px;
+  margin-bottom: -6.32px;
+  margin-left: -12.59px;
+  margin-right: -12.59px;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  white-space: nowrap;
+  font-family: "Rubik", Helvetica;
+  letter-spacing: 0.20px;
+  line-height: 30px;
+}
+
+.STUDIM .logos-removebg-2 {
+  position: absolute;
+  width: 265px;
+  height: 265px;
+  top: 797px;
+  left: 27px;
+  object-fit: cover;
+}
+.rectangle-12,
+.rectangle-13,
+.rectangle-14 {
+  background-color: #f0f0f0; /* ou ton propre fond */
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 12px;
+}
+
+.input-inside {
+  width: 300%;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 15px;
+  resize: none;
+  padding-left: 20px;  /* ← Rapproche le texte de la droite */
+  padding-top:  20px;   /* ↓ Descend un peu le placeholder */
+}
+.inputem1{
+  width: 80px;
+  border: none;
+}
+.inputem{
+  border: none;
+  outline: none;
+  border-radius: 35px;
+  padding-left:20px;
+  padding-top:20px;
+}
+.inputsel{
+  border: none;
+  outline: none;
+  border-radius: 35px;
+  padding-left:20px;
+  padding-top:5px;
+}
+.button {
+  background-color: #f39c12;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+}
+.button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.email-prof{
+  margin-bottom: 70px;
+}
+

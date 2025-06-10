@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login Page</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+  <div class="wrapper">
+    <!-- Login Section -->
+    <div class="login-container">
+      <div class="logo" id="logo-3d"></div>
+      <div class="welcome-text">
+        <h1>Welcome Back !</h1>
+        <p class="subtitle">Enter your Credentials to access your account</p>
+      </div>
+      <form class="signin-form">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <div class="input-field">
+            <i class="fas fa-envelope"></i>
+            <input type="email" id="email" placeholder="Enter your email" required />
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input type="password" id="password" placeholder="Enter your password" required />
+          </div>
+        </div>
+        <div class="remember-me">
+          <input type="checkbox" id="remember" />
+          <label for="remember">Remember me</label>
+        </div>
+        <button type="submit" class="primary-button">Sign In</button>
+      </form>
+      <form class="signup-form hidden">
+        <div class="form-group">
+          <label for="new-email">Email</label>
+          <div class="input-field">
+            <i class="fas fa-envelope"></i>
+            <input type="email" id="new-email" placeholder="Enter your email" required />
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="new-password">Password</label>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input type="password" id="new-password" placeholder="Create a password" required />
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="confirm-password">Confirm Password</label>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input type="password" id="confirm-password" placeholder="Confirm password" required />
+          </div>
+        </div>
+        <button type="submit" class="primary-button">Sign Up</button>
+      </form>
+      <!-- Switch Links -->
+      <p class="signup-text" id="text-signup">
+        Don't have an account? <a href="#" id="switch-to-signup">Sign Up</a>
+      </p>
+      <p class="signup-text hidden" id="signup-alternative">
+        Already have an account? <a href="#" id="switch-to-signin">Sign In</a>
+      </p>
+    </div>
+
+    <!-- 3D Model Section -->
+    <div class="model-container" id="model-container"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+  <script src="script2.js"></script>
+  
+</body>
+</html>
